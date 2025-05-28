@@ -36,7 +36,7 @@ All scripts use only Python standard library modules. No external installations 
    Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Oishani/MSCS532_Assignment3.git
-   cd MSCS532_ASSIGNMENT3
+   cd MSCS532_Assignment3
    ```
 
 ### 1. Quicksort Implementations & Benchmarking

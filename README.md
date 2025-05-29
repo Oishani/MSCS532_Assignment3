@@ -1,4 +1,5 @@
 # MSCS-532 Assignment 3: Understanding Algorithm Efficiency and Scalability
+### Oishani Ganguly
 
 This repository contains Python implementations, empirical benchmarks, and an in-depth report for two core data structures and algorithms topics:
 
